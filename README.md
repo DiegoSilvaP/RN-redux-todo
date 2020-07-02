@@ -2,5 +2,5 @@
 
 ## Redux is useful to manage state, it helps you write applications that behave consistently
 
-Screenshots
-:::image type="content" source="screenshots/Screenshot_20200702-123003_todoapp.jpg" alt-text="Todo-App Screen":::
+### Screenshots
+![Todo-App screen](screenshots/screen1.jpg?raw=true "Todo-App screen")
